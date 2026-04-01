@@ -90,4 +90,4 @@ This project is a simple yet powerful introduction to Machine Learning and regre
 ---
 
 ## 🔗 GitHub
-([Add your repo link here](https://github.com/Sagar7758/Machine_Learning_All_Models/tree/main/01_Linear_Regression))
+[View Linear Regression Project](https://github.com/Sagar7758/Machine_Learning_All_Models/tree/main/01_Linear_Regression)
