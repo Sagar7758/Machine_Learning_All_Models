@@ -1,0 +1,201 @@
+CustomerID,AnnualIncome,SpendingScore,Cluster,CustomerSegment
+1,37483,27,2,
+2,34308,21,2,
+3,38238,19,2,
+4,42615,29,2,
+5,33829,33,2,
+6,33829,32,2,
+7,42896,18,2,
+8,38837,22,2,
+9,32652,27,2,
+10,37712,32,2,
+11,32682,21,2,
+12,32671,23,2,
+13,36209,16,2,
+14,25433,15,2,
+15,26375,31,2,
+16,32188,35,2,
+17,29935,24,2,
+18,36571,33,2,
+19,30459,27,2,
+20,27938,19,2,
+21,42328,27,2,
+22,33871,37,2,
+23,35337,24,2,
+24,27876,37,2,
+25,32278,4,2,
+26,35554,31,2,
+27,29245,25,2,
+28,36878,22,2,
+29,31996,25,2,
+30,33541,9,2,
+31,31991,23,2,
+32,44261,27,2,
+33,34932,36,2,
+34,29711,20,2,
+35,39112,18,2,
+36,28895,20,2,
+37,36044,32,2,
+38,25201,27,2,
+39,28359,20,2,
+40,35984,29,2,
+41,38692,25,2,
+42,35856,32,2,
+43,34421,19,2,
+44,33494,22,2,
+45,27607,21,2,
+46,31400,13,2,
+47,32696,27,2,
+48,40285,27,2,
+49,36718,25,2,
+50,26184,23,2,
+51,45092,40,0,
+52,52055,57,0,
+53,52600,61,0,
+54,49384,41,0,
+55,53871,59,0,
+56,57828,54,0,
+57,68203,58,3,Premium Customers
+58,56222,68,0,
+59,56802,47,0,
+60,54478,42,0,
+61,41568,41,2,
+62,54814,41,0,
+63,55421,49,0,
+64,72242,53,3,Premium Customers
+65,53653,52,0,
+66,57110,58,0,
+67,54757,50,0,
+68,46819,64,0,
+69,62999,47,0,
+70,60263,77,0,
+71,60537,56,0,
+72,48634,41,0,
+73,64819,39,0,
+74,45187,54,0,
+75,59107,47,0,
+76,70333,57,3,Premium Customers
+77,48066,54,0,
+78,51035,49,0,
+79,55697,41,0,
+80,51475,34,0,
+81,44145,45,2,
+82,55479,58,0,
+83,47563,52,0,
+84,58315,37,0,
+85,48564,51,0,
+86,65849,53,0,
+87,49517,41,0,
+88,52745,51,0,
+89,60694,50,0,
+90,46383,38,0,
+91,56592,53,0,
+92,64149,55,0,
+93,43747,60,2,
+94,56292,60,0,
+95,56819,36,0,
+96,60472,40,0,
+97,46341,55,0,
+98,45756,55,0,
+99,58653,55,0,
+100,57078,88,0,
+101,56753,55,0,
+102,57425,61,0,
+103,50239,59,0,
+104,56625,56,0,
+105,57051,46,0,
+106,49999,57,0,
+107,68060,42,3,Premium Customers
+108,58316,47,0,
+109,46660,45,0,
+110,59595,50,0,
+111,98887,90,1,Careful Rich Customers
+112,73796,69,3,Premium Customers
+113,89117,88,1,Careful Rich Customers
+114,75323,80,3,Premium Customers
+115,82168,73,3,Premium Customers
+116,91533,83,1,Careful Rich Customers
+117,85385,81,1,Careful Rich Customers
+118,78533,75,3,Premium Customers
+119,80708,80,3,Premium Customers
+120,89077,77,1,Careful Rich Customers
+121,80617,80,3,Premium Customers
+122,86298,84,1,Careful Rich Customers
+123,85273,91,1,Careful Rich Customers
+124,81090,71,3,Premium Customers
+125,97863,94,1,Careful Rich Customers
+126,88803,66,1,Careful Rich Customers
+127,72849,78,3,Premium Customers
+128,86118,84,1,Careful Rich Customers
+129,81029,81,3,Premium Customers
+130,90114,75,1,Careful Rich Customers
+131,80244,78,3,Premium Customers
+132,84311,76,3,Premium Customers
+133,88029,75,1,Careful Rich Customers
+134,90194,85,1,Careful Rich Customers
+135,77798,82,3,Premium Customers
+136,82992,75,3,Premium Customers
+137,82150,86,3,Premium Customers
+138,81080,82,3,Premium Customers
+139,95592,85,1,Careful Rich Customers
+140,87429,84,1,Careful Rich Customers
+141,77434,74,3,Premium Customers
+142,90507,76,1,Careful Rich Customers
+143,97732,85,1,Careful Rich Customers
+144,91194,84,1,Careful Rich Customers
+145,75883,79,3,Premium Customers
+146,82094,80,3,Premium Customers
+147,92601,88,1,Careful Rich Customers
+148,80753,75,3,Premium Customers
+149,87662,83,1,Careful Rich Customers
+150,89647,78,1,Careful Rich Customers
+151,79438,78,3,Premium Customers
+152,84642,87,1,Careful Rich Customers
+153,65552,85,0,
+154,78853,85,3,Premium Customers
+155,83484,89,3,Premium Customers
+156,77513,80,3,Premium Customers
+157,94794,84,1,Careful Rich Customers
+158,76419,77,3,Premium Customers
+159,82359,82,3,Premium Customers
+160,85784,79,1,Careful Rich Customers
+161,90484,23,1,Careful Rich Customers
+162,92975,29,1,Careful Rich Customers
+163,85908,19,1,Careful Rich Customers
+164,100461,22,1,Careful Rich Customers
+165,84969,24,1,Careful Rich Customers
+166,83929,17,3,Premium Customers
+167,95790,21,1,Careful Rich Customers
+168,93958,20,1,Careful Rich Customers
+169,93120,20,1,Careful Rich Customers
+170,93141,15,1,Careful Rich Customers
+171,89938,20,1,Careful Rich Customers
+172,85513,22,1,Careful Rich Customers
+173,90379,28,1,Careful Rich Customers
+174,86614,25,1,Careful Rich Customers
+175,94875,32,1,Careful Rich Customers
+176,89264,15,1,Careful Rich Customers
+177,85872,25,1,Careful Rich Customers
+178,88393,21,1,Careful Rich Customers
+179,92064,33,1,Careful Rich Customers
+180,87181,15,1,Careful Rich Customers
+181,85888,14,1,Careful Rich Customers
+182,91218,16,1,Careful Rich Customers
+183,91224,7,1,Careful Rich Customers
+184,87465,16,1,Careful Rich Customers
+185,87644,15,1,Careful Rich Customers
+186,91160,20,1,Careful Rich Customers
+187,82759,22,3,Premium Customers
+188,82962,31,3,Premium Customers
+189,86407,25,1,Careful Rich Customers
+190,88932,16,1,Careful Rich Customers
+191,91554,14,1,Careful Rich Customers
+192,97376,22,1,Careful Rich Customers
+193,94288,12,1,Careful Rich Customers
+194,89200,30,1,Careful Rich Customers
+195,89904,27,1,Careful Rich Customers
+196,84987,17,1,Careful Rich Customers
+197,89907,9,1,Careful Rich Customers
+198,88556,28,1,Careful Rich Customers
+199,91613,19,1,Careful Rich Customers
+200,85863,27,1,Careful Rich Customers
