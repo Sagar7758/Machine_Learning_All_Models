@@ -136,17 +136,17 @@ Using hierarchical clustering, customers are segmented into meaningful groups su
 
 #### Technologies Used
 
-Python 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+- Python 
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 
-👤 Author
-Sagar Wagh
-Aspiring Data Scientist
+####  **Author**
+       Sagar Wagh
+       Aspiring Data Scientist
 
 #### Final Note
 
