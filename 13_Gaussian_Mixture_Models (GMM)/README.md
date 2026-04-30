@@ -87,7 +87,7 @@ to identify abnormal network behavior.
 - Demonstrates the power of unsupervised learning in cybersecurity
 - Can be extended into real-time intrusion detection
 
+**Author**
 
- **Author**
 Sagar Wagh
 Aspiring Data Scientist 
