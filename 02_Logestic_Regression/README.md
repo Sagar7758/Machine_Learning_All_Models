@@ -1,74 +1,203 @@
-# 🛒 E-Commerce Purchase Prediction using Logistic Regression
+#  **Logistic Regression Projects Collection**
 
-## 📌 Problem Statement
-In an e-commerce company, the management wants to predict whether a customer will purchase a high-value product based on their age, time spent on the website, and whether they have added items to their cart. The goal is to optimize marketing strategies by targeting potential customers more effectively, thereby increasing sales and revenue.
+This repository contains multiple Machine Learning projects implemented using **Logistic Regression**.  
+The goal is to understand and apply different types of logistic regression:
+
+- **Binary Logistic Regression**
+- **Multinomial Logistic Regression**
+- **Ordinal Logistic Regression**
+
+Each project focuses on a different real-world business problem and demonstrates data preprocessing, EDA, model training, evaluation, and business impact.
 
 ---
 
-## 📌 Project Overview
-This project uses Logistic Regression to predict whether a customer is likely to make a purchase based on behavioral and demographic features.
+#  **Projects Included**
 
----
+# **1️⃣ E-Commerce Purchase Prediction (Binary Logistic Regression)**
 
-## 📊 Dataset Features
+## **Problem Statement**
+An e-commerce company wants to predict whether a customer will make a purchase based on customer activity and demographic details.
+
+## **Objective**
+Predict:
+- **0 → No Purchase**
+- **1 → Purchase**
+
+## **Features Used**
 - Age
 - Time_Spent
 - Added_to_Cart
+- Previous_Purchases
 
-## 🎯 Target Variable
-- Purchase
+## **Steps Performed**
+- Data Loading
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Selection
+- Train-Test Split
+- Logistic Regression Model
+- Prediction
+- Evaluation
+
+## **Evaluation Metrics**
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+## **Business Impact**
+- Identify customers likely to buy
+- Improve marketing strategy
+- Increase conversion rate
+- Better customer targeting
 
 ---
 
-## ⚙️ Technologies Used
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+# **2️⃣ Email Spam Detection (Binary Logistic Regression)**
 
----
+## **Problem Statement**
+Classify emails as spam or not spam.
 
-## 🤖 Model Used
+## **Objective**
+Predict:
+- **0 → Not Spam**
+- **1 → Spam**
+
+## **Dataset Features**
+- Email Text
+- Label
+
+## **Steps Performed**
+- Text preprocessing
+- Data cleaning
+- TF-IDF vectorization
+- Train-Test Split
 - Logistic Regression
+- Prediction
+- Evaluation
+
+## **Metrics**
+- Accuracy
+- Confusion Matrix
+- Classification Report
+
+## **Business Impact**
+- Reduce spam emails
+- Improve inbox filtering
+- Better user experience
 
 ---
 
-## 🚀 Steps Performed
+# **3️⃣ News Article Category Classification (Multinomial Logistic Regression)**
 
-1. Imported required libraries and Logistic Regression model  
-2. Loaded the e-commerce dataset  
-3. Understood the dataset using head(), info(), and describe()  
-4. Checked missing values and duplicate rows  
-5. Split the dataset into input features and target variable  
-6. Visualized the relationship between Time Spent and Purchase  
-7. Performed train-test split  
-8. Initialized the Logistic Regression model  
-9. Trained the model using training data  
-10. Made predictions on the test dataset  
-11. Visualized Actual vs Predicted values  
-12. Accepted user input for Age, Time Spent, and Added to Cart  
-13. Predicted customer purchase behavior based on user input  
-14. Displayed the final prediction result
+## **Problem Statement**
+Predict the category of a news article based on text.
+
+## **Objective**
+Classify articles into:
+- Business
+- Entertainment
+- Politics
+- Sport
+- Tech
+
+## **Dataset Features**
+- News Text
+- Category
+
+## **Steps Performed**
+- Text preprocessing
+- TF-IDF vectorization
+- Multinomial Logistic Regression
+- Prediction
+- Evaluation
+
+## **Metrics**
+- Accuracy
+- Confusion Matrix
+- Classification Report
+
+## **Business Impact**
+- Faster article categorization
+- Content recommendation
+- News automation systems
 
 ---
 
-## 📈 Visualizations
+# **4️⃣ Customer Satisfaction Level Prediction (Ordinal Logistic Regression)**
 
-### Time Spent vs Purchase
-![Time Spent vs Purchase](images/time_spent_vs_purchase.png)
+## **Problem Statement**
+Predict customer satisfaction level based on service and demographic data.
 
-### Actual vs Predicted
-![Actual vs Predicted](images/actual_vs_predicted.png)
+## **Objective**
+Predict:
+- Low
+- Medium
+- High
+
+## **Features Used**
+- Age
+- Monthly Income
+- Product Quality Rating
+- Support Rating
+
+## **Steps Performed**
+- Data Cleaning
+- EDA
+- Feature Selection
+- Train-Test Split
+- Ordinal Logistic Regression
+- Prediction
+- Evaluation
+
+## **Metrics**
+- Accuracy
+- Confusion Matrix
+- Classification Report
+
+## **Business Impact**
+- Understand customer experience
+- Improve service quality
+- Increase retention
 
 ---
 
-## 📌 Conclusion
-The Logistic Regression model successfully predicts whether a customer is likely to purchase based on age, website engagement, and cart activity.
+##  **Technologies Used**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Statsmodels
+- Jupyter Notebook
 
 ---
 
-## 💡 Business Impact
-- Helps identify high-potential customers
-- Improves marketing targeting
-- Supports better sales conversion strategies
+##  **Machine Learning Concepts Covered**
+
+- Binary Classification
+- Multiclass Classification
+- Ordinal Classification
+- Feature Engineering
+- Text Vectorization
+- Model Training
+- Prediction
+- Accuracy Evaluation
+- Confusion Matrix
+- Classification Report
+
+---
+
+##  **Repository Structure**
+
+```bash
+02_Logestic_Regression/
+│
+├── E-Commerce Purchase Prediction.ipynb
+├── Email Spam Detection.ipynb
+├── News Article Category Classification.ipynb
+├── Customer Satisfaction Level Prediction.ipynb
+├── datasets/
+├── images/
+└── README.md
